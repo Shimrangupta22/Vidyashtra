@@ -1,0 +1,1 @@
+This is an online education website which contains content for students studying in school.
